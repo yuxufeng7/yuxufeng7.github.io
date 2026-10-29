@@ -24,6 +24,8 @@ Internal Notes:
 
 ![安装包内容示例](../assets/images/ips2550_gui_install_files.png)
 
+---
+
 ## 👌答案
 
 **推荐优先运行 `setup.exe`。**
