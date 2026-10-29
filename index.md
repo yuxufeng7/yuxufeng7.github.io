@@ -1,6 +1,6 @@
 # IPS Knowledge Center
 
-Welcome to the knowledge base for Renesas Inductive Position Sensor products.
+Welcome to the knowledge base for R Inductive Position Sensor products.
 
 ---
 
