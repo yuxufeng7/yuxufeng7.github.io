@@ -1,1 +1,32 @@
-# yuxufeng7.github.io
+# IPS Knowledge Center
+
+Welcome to the knowledge base for Renesas Inductive Position Sensor products.
+
+---
+
+## FAQ
+
+- [Output Amplitude Variation](faq/amplitude.md)
+- [Calibration Guide](faq/calibration.md)
+- [EOL Offset Explanation](faq/eol-offset.md)
+
+---
+
+## Troubleshooting
+
+- [Startup Issues](troubleshooting/startup.md)
+- [SPI Communication Issues](troubleshooting/spi.md)
+- [Angle Jump Issues](troubleshooting/angle-jump.md)
+
+---
+
+## Application Notes
+
+- [Coil Design](application-notes/coil-design.md)
+- [PCB Layout Guidelines](application-notes/pcb-layout.md)
+
+---
+
+## Case Studies
+
+- [CASE-001 Jamou](cases/case-001-jamou.md)
