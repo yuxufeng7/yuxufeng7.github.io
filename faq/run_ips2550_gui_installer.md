@@ -1,3 +1,17 @@
+---
+title: 如何安装 IPS2550 GUI 软件
+category: FAQ
+product: IPS2550
+keywords:
+  - GUI
+  - Software Installation
+---
+
+<!--
+Internal Notes:
+此FAQ来自客户安装问题
+-->
+
 # 如何安装 IPS2550 GUI 软件
 
 ## ❔问题
