@@ -1,5 +1,5 @@
 <!--
-Tag Taxonomy for IPS Knowledge Center
+Tag Taxonomy for IPS Knowledge Base
 请仅使用以下预定义Tags
 -->
 

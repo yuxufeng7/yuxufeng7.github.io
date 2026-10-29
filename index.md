@@ -1,4 +1,4 @@
-# IPS Knowledge Center
+# IPS Knowledge Base
 
 Welcome to the knowledge base for R Inductive Position Sensor products.
 
