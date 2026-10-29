@@ -20,6 +20,7 @@ Tag Taxonomy for IPS Knowledge Base
 - DLL
 - SampleCode
 - CLanguage
+- CRC
 
 ---
 
