@@ -9,6 +9,8 @@ Tag Taxonomy for IPS Knowledge Base
 
 - IPS2550
 - RAA2P2551
+- RAA2P3xxx
+- RAA2P4xxx
 
 ---
 
